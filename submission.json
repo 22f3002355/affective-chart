@@ -1,0 +1,7 @@
+{
+  "prompt": "A massive human figure made of industrial smoke, factories, and pollution towering over a crowd of hundreds of tiny normal people below, the giant emitting thick dark smoke that spreads across the sky and engulfs everyone, symbolizing unequal carbon emissions, dramatic lighting, cinematic, emotional, highly detailed, dystopian atmosphere, wide composition, no text, no labels, no charts, no graphs",
+  "model": "DALL·E 3",
+  "dataset_name": "Global CO2 Emissions",
+  "dataset_url": "https://ourworldindata.org/co2-emissions",
+  "insight": "A small fraction of humanity is responsible for the majority of global CO2 emissions"
+}
